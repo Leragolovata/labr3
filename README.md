@@ -1,3 +1,5 @@
+<img width="471" height="729" alt="image" src="https://github.com/user-attachments/assets/dc1f1e65-a4dd-41dd-b5e4-0e5b7212e98a" />
+
 # 📘 Лабораторна робота №3
 
 ## 📌 Короткий опис задачі
@@ -80,5 +82,5 @@ else
 Negative elements: 7
 Zero elements: 4**
 
-<img width="471" height="729" alt="image" src="https://github.com/user-attachments/assets/dc1f1e65-a4dd-41dd-b5e4-0e5b7212e98a" />
+
 
