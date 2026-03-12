@@ -66,11 +66,9 @@ if (a[i][j] > 0)
 else if (a[i][j] < 0)
     negative++;
 else
-    zero++;
+    zero++;```
 
----
-
-### 📊 4. Виведення результатів
+# 📊 4. Виведення результатів
 
 Після перевірки всіх елементів матриці програма виводить:
 
@@ -80,7 +78,9 @@ else
 
 ### Приклад виводу
 
-**Positive elements: 5
+Positive elements: 5
 Negative elements: 7
-Zero elements: 4**
+Zero elements: 4
+
+
 
