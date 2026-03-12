@@ -66,7 +66,7 @@ if (a[i][j] > 0)
 else if (a[i][j] < 0)
     negative++;
 else
-    zero++;```
+    zero++;
 
 # 📊 4. Виведення результатів
 
