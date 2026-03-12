@@ -67,8 +67,3 @@ else if (a[i][j] < 0)
     negative++;
 else
     zero++;
-
-
-
-
-
