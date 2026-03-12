@@ -79,3 +79,6 @@ else
 **Positive elements: 5
 Negative elements: 7
 Zero elements: 4**
+
+<img width="471" height="729" alt="image" src="https://github.com/user-attachments/assets/dc1f1e65-a4dd-41dd-b5e4-0e5b7212e98a" />
+
